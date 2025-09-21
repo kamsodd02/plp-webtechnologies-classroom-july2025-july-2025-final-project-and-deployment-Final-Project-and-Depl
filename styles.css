@@ -30,8 +30,14 @@ p {
 .cta {
     margin-top: 30px;
     padding-right: 20px;
+    font-size: 40px;
 }
 
+.card {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 #About-contact {
     display: flexbox;
     text-align: right;
