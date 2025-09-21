@@ -20,15 +20,15 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 50px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 30px;
     text-shadow: none;
 }
 .cta {
-    margin-top: 20px;
+    margin-top: 30px;
     padding-right: 20px;
 }
 
@@ -51,8 +51,9 @@ p {
 
 .aside_p {
     display: grid;
-    justify-self: right;
+    justify-self: center;
     padding-right: 20px;
+    font-size: larger;
     
 }
 
