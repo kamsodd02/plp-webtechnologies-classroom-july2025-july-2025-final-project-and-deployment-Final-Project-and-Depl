@@ -20,11 +20,11 @@ body {
 }
 
 h1 {
-    font-size: 15px;
+    font-size: 30px;
 }
 
 p {
-    font-size: 8px;
+    font-size: 20px;
     text-shadow: none;
 }
 .cta {
@@ -42,7 +42,7 @@ p {
 .top {
     padding-left: 10px;
     padding-right: 5px;
-    font-size: 12px
+    font-size: 20px
 }
 .icon {
     justify-content: right;
@@ -57,7 +57,7 @@ p {
 }
 
 #heading {
-    font-size: 20px;
+    font-size: 30px;
     text-shadow: none;
     margin-top: 50px;
 }
@@ -129,7 +129,7 @@ main {
     position: relative;
 }
 .logo {
-    font-size: 7px;
+    font-size: 10px;
 }
 
 aside {
