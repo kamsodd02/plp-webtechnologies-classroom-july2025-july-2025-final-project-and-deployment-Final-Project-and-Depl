@@ -31,12 +31,14 @@ p {
     margin-top: 30px;
     padding-right: 20px;
     font-size: auto;
+    text-shadow: none;
 }
 
 .card {
     font-size: auto;
     margin-top: 15px;
     margin-bottom: 15px;
+    text-shadow: none;
 }
 #About-contact {
     display: flexbox;

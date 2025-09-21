@@ -90,4 +90,4 @@ Deploy your project and confirm that:
 * Evidence of following best practices
 
 ## Deployment Link
-* https://68cfe7562731bb0008758644--tiny-pithivier-11e870.netlify.app/
+https://qomorudeenportfolio.netlify.app/
