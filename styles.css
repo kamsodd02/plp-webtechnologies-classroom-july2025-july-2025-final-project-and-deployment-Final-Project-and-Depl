@@ -24,17 +24,17 @@ h1 {
 }
 
 p {
-    font-size: 30px;
+    font-size: auto;
     text-shadow: none;
 }
 .cta {
     margin-top: 30px;
     padding-right: 20px;
-    font-size: 40px;
+    font-size: auto;
 }
 
 .card {
-    font-size: 30px;
+    font-size: auto;
     margin-top: 15px;
     margin-bottom: 15px;
 }
